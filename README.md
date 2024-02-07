@@ -1,4 +1,4 @@
-Here is a README for a basic weather app built with HTML and CSS:
+
 
 # Weather App
 
